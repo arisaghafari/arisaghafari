@@ -1,5 +1,5 @@
 ### Hi there, I'm Arisa! 👋
-- 👀 I’m interested in Cellular Networks and Data Mining areas.
+- 👀 I'm a Software Engineer interested in Cellular Networks and Data Mining areas.
 - 🌱 I hold a B.S in Computer Engineering from IUST.
 - 📫 How to reach me : arisaghafari68@gmail.com
 
